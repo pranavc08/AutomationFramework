@@ -41,7 +41,6 @@ public class BaseCase {
 
 		switch (browserName.toLowerCase()) {
 		case "chrome":
-			System.setProperty("webdriver.chrome.driver", "C:\\Users\\ADMIN\\chromedriver\\chromedriver.exe");
 			driver = new ChromeDriver();
 			break;
 		case "firefox":

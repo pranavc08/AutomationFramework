@@ -490,3 +490,31 @@
 01-18-2025 19:15:26 INFO  TC_02_Login:31 - Page Scrolled
 01-18-2025 19:15:29 INFO  TC_02_Login:38 - Validating My Account text
 01-18-2025 19:15:30 INFO  TC_02_Login:42 - Test Case Passed
+01-19-2025 12:20:10 INFO  TC_01_AccountRegistration:24 - *** Starting TC_01_AccountRegistration ***
+01-19-2025 12:20:12 INFO  TC_01_AccountRegistration:29 - Clicked on MyAccount
+01-19-2025 12:20:14 INFO  TC_01_AccountRegistration:32 - Clicked on Register
+01-19-2025 12:20:17 INFO  TC_01_AccountRegistration:41 - Page Scrolled
+01-19-2025 12:20:21 INFO  TC_01_AccountRegistration:50 - Validating account created text
+01-19-2025 12:20:24 INFO  TC_01_AccountRegistration:54 - Test Case Passed
+01-19-2025 12:20:40 INFO  TC_02_Login:16 - *** Starting TC_02_Login ***
+01-19-2025 12:20:40 INFO  TC_02_Login:20 - Clicked on MyAccount
+01-19-2025 12:20:41 INFO  TC_02_Login:23 - Clicked on Login
+01-19-2025 12:20:45 INFO  TC_02_Login:31 - Page Scrolled
+01-19-2025 12:20:49 INFO  TC_02_Login:38 - Validating My Account text
+01-19-2025 12:20:49 INFO  TC_02_Login:42 - Test Case Passed
+01-19-2025 12:21:05 INFO  TC_03_Login_DataDrivenTest:17 - *** Starting TC_02_Login ***
+01-19-2025 12:21:05 INFO  TC_03_Login_DataDrivenTest:22 - Clicked on MyAccount
+01-19-2025 12:21:06 INFO  TC_03_Login_DataDrivenTest:25 - Clicked on Login
+01-19-2025 12:21:10 INFO  TC_03_Login_DataDrivenTest:49 - Test Case Passed
+01-19-2025 12:21:10 INFO  TC_03_Login_DataDrivenTest:17 - *** Starting TC_02_Login ***
+01-19-2025 12:21:11 INFO  TC_03_Login_DataDrivenTest:22 - Clicked on MyAccount
+01-19-2025 12:21:11 INFO  TC_03_Login_DataDrivenTest:25 - Clicked on Login
+01-19-2025 12:21:45 INFO  TC_03_Login_DataDrivenTest:71 - Test Case Passed
+01-19-2025 12:21:45 INFO  TC_03_Login_DataDrivenTest:17 - *** Starting TC_02_Login ***
+01-19-2025 12:21:45 INFO  TC_03_Login_DataDrivenTest:22 - Clicked on MyAccount
+01-19-2025 12:21:45 INFO  TC_03_Login_DataDrivenTest:25 - Clicked on Login
+01-19-2025 12:22:19 INFO  TC_03_Login_DataDrivenTest:71 - Test Case Passed
+01-19-2025 12:22:19 INFO  TC_03_Login_DataDrivenTest:17 - *** Starting TC_02_Login ***
+01-19-2025 12:22:19 INFO  TC_03_Login_DataDrivenTest:22 - Clicked on MyAccount
+01-19-2025 12:22:19 INFO  TC_03_Login_DataDrivenTest:25 - Clicked on Login
+01-19-2025 12:22:52 INFO  TC_03_Login_DataDrivenTest:71 - Test Case Passed
